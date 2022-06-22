@@ -1,0 +1,15 @@
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\bin\Debug\net6.0\Task27.exe
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\bin\Debug\net6.0\Task27.deps.json
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\bin\Debug\net6.0\Task27.dll
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\bin\Debug\net6.0\Task27.pdb
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.dll
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\refint\Task27.dll
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.pdb
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task27\obj\Debug\net6.0\ref\Task27.dll
