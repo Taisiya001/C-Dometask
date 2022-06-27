@@ -1,0 +1,15 @@
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\bin\Debug\net6.0\Task33.exe
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\bin\Debug\net6.0\Task33.deps.json
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\bin\Debug\net6.0\Task33.runtimeconfig.json
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\bin\Debug\net6.0\Task33.dll
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\bin\Debug\net6.0\Task33.pdb
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.csproj.AssemblyReference.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.AssemblyInfoInputs.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.AssemblyInfo.cs
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.csproj.CoreCompileInputs.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.dll
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\refint\Task33.dll
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.pdb
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\Task33.genruntimeconfig.cache
+C:\Users\Таисия\OneDrive\Рабочий стол\Python\Домашнее задание\Task33\obj\Debug\net6.0\ref\Task33.dll
