@@ -1,35 +1,26 @@
-﻿int[] fillArray()
+﻿int countnumber = 0;
+
+while(true)
 {
-    int[] array = new int[12];
-    for(int i=0;i < array.Length;i++)
+    Console.WriteLine("Введите число: ");
+    int number = Convert.ToInt32(Console.ReadLine());
+    countnumber = 0;
+    int continue_ = 0;
+
+    if(number > 0)
     {
-        array[i] =new Random().Next(-1000,1000);
+        countnumber++;
     }
-    return array;
-}
-int[] arr = fillArray();
-
-void ArraySum(int[] array)
-{
-    for(int i = 0; i < array.Length;i++ )
-    {
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
-}
-
-ArraySum(arr);
-
-void MaxMin(int[] arr)
-{;
-    int count = 0;
-    for(int i = 0; i < arr.Length;i++)
-    {
-        if(arr[i] > 0)
+        while(true)
         {
-            count = count + 1;
+            Console.WriteLine("Продолжить ввод?Да-1, Нет -0");
+            continue_ = Convert.ToInt32(Console.ReadLine());
+            if(continue_ == 0 || continue_== 1);
+            break;
         }
+    if (continue_ == 0)
+    {
+        break;
     }
-    System.Console.Write($"{count}");
 }
-MaxMin(arr);
+Console.WriteLine($"Количество чисел больше нуля {countnumber}");
