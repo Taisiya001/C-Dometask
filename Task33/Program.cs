@@ -1,28 +1,21 @@
-﻿Console.WriteLine("Введите число");
-int b1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите число");
-int k1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите число");
-int b2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите число");
-int k2 = Convert.ToInt32(Console.ReadLine());
-int x = 0;
-int y1 = 0;
-int y2 = 0;
-int FindX ()
+﻿void coordinates()
 {
-    x = b2-b1 / k1-k2;
-    return x;
+    Console.WriteLine("Введите число");
+    double b1 = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Введите число");
+    double k1 = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Введите число");
+    double b2 = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Введите число");
+    double k2 = Convert.ToDouble(Console.ReadLine());
+
+    intersectiPoint(b1, k1, b2, k2);
 }
 
-void FindY ()
+void intersectiPoint(double b1, double k1, double b2, double k2)
 {
-    y1 = k1*x + b1;
-    y2 = k2*x + b2;
-    if (y1 == y2) 
-    {
-        Console.WriteLine($"{x} {y1}");
-    }
+    double x = (b2-b1)/(k2-k1);
+    double y = (k2*x) + b2;
+    System.Console.WriteLine($"{x} {y}");
 }
-FindY();
-FindX();
+coordinates();
